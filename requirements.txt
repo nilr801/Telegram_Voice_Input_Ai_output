@@ -1,0 +1,9 @@
+python-telegram-bot
+pydub
+gTTS
+whisper
+SpeechRecognition
+python-dotenv
+g4f
+httpx
+nest_asyncio
